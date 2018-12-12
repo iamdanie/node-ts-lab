@@ -2,7 +2,7 @@
   "name": "web-phone-book-backend",
   "version": "0.1.0",
   "description": "Web Phonebook Backend example with Typescript, Node, and Sequelize",
-  "homepage": "https://github.com/iamdanie/nodejs-backend-lab",
+  "homepage": "https://github.com/iamdanie/node-ts-lab",
   "author": {
     "name": "iamdanie",
     "email": "daniela.bravo@linio.com"
